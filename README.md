@@ -11,3 +11,6 @@ A project that will help disc jockeys develop appropriate playlist. Almost liike
 
 ## Revenue
 * Those who will be host (Bars, Clubs, Djs) can pay for a monthly subscription
+
+## Spotify API
+https://developer.spotify.com/documentation/web-api/
